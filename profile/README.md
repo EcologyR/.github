@@ -10,9 +10,9 @@
 -->
 
 
-Bienvenidos! al espacio de trabajo para el desarrollo de paquetes de R útiles en Ecología. 
+¡Bienvenidos! al espacio de trabajo para el desarrollo de paquetes de R útiles en Ecología. 
 
-En este espacio encontraras diferentes repositorios en desarrollo. 
+En este espacio encontrarás diferentes repositorios en desarrollo. 
 
 Enlaces útiles: 
 
